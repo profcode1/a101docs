@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "text": "Giriş",
+      "path": "Index.md"
+    },
+    {
+      "text": "Entegrasyon",
+      "path": "Integration/Index.md",
+      "items": [
+        {
+          "text": "Katalog Entegrasyonu",          
+          "items": [
+            {
+              "text": "Ürün Entegrasyonu",
+              "path": "Integration/Catalog/Product.md"
+            },
+            {
+              "text": "Fiyat ve Stok Entegrasyonu",
+              "path": "Integration/Catalog/PriceStock.md"
+            }
+          ]
+        },
+        {
+          "text": "Sipariş Entegrasyonu",
+          "path": "Integration/Order.md",
+          "items": [
+            {
+              "text": "Sipariş Güncelleme Entegrasyonu",
+              "path": "Integration/OrderUpdate.md"
+            },
+            {
+              "text": "Sipariş Kargo Bilgisi Entegrasyonu",
+              "path": "Integration/OrderUpdateTrackingData.md"
+            }
+          ]
+        },
+        {
+          "text": "Fatura Entegrasyonu",
+          "path": "Integration/Invoice.md"
+        }
+      ]
+    },
+    {
+      "text": "Oms Entegrasyon",
+      "path": "Integration/Index.md",
+      "items": [
+        {
+          "text": "Sipariş Entegrasyonu",          
+          "items": [
+            {
+              "text": "Sipariş Kaydetme",
+              "path": "Oms/SaveOrder.md"
+            }
+          ]
+        }
+      ]
+    } ,
+    {
+      "text": "Pim Entegrasyon",
+      "path": "Integration/Index.md",
+      "items": [
+        {
+          "text": "Katalog Entegrasyonu",          
+          "items": [
+            {
+              "text": "Onaylanan satıcı ürününe sku kaydetme ",
+              "path": "Pim/SaveExternalSku.md"
+            }
+          ]
+        }
+      ]
+    } ,
+    {
+      "text": "Hub Kullanıcı Kılavuzu",
+      "path": "Hub/Index.md",
+      "items": [
+        {
+          "text": "Sipariş",          
+          "items": [
+            {
+              "text": "Sipariş Listesi",
+              "path": "Hub/Order/Orders.md"
+            },
+            {
+              "text": "İade İşlemleri",
+              "path": "Integration/Catalog/PriceStock.md"
+            }
+          ]
+        }
+      ]
+    } 
+	]
+}

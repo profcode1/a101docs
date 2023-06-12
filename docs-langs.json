@@ -1,0 +1,9 @@
+{
+  "Languages":[
+    {
+      "DisplayName" : "Türkçe",
+      "Code" : "tr",
+      "IsDefault": true
+    }
+  ]
+}
