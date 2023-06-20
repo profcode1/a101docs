@@ -2,14 +2,14 @@
 
 ## A101 Developer Portal'e Hoşgeldiniz
 
-Bu doküman portalı entegrasyon veya arayüz üzerinden yapılacak işlemlerinin tamamlanması adına gerekli bütün bilgilerin iletildiği Commercelab entegrasyon doküman sayfasıdır.
+Bu doküman portalı entegrasyon veya arayüz üzerinden yapılacak işlemlerinin tamamlanması adına gerekli bütün bilgilerin iletildiği a101 entegrasyon doküman sayfasıdır.
 
 ![screenshot](../m/integration.jpeg)
 
 
 ## Entegrasyon Modelleri
 
-Commercelab ile çalışmaya başlarken birden fazla entegrasyon yöntemi vardır. Bu yöntemlerden sizin yapınıza en uygun olanı seçip buradan nasıl ilerlenebileceğini takip edebilirsiniz.
+a101 ile çalışmaya başlarken birden fazla entegrasyon yöntemi vardır. Bu yöntemlerden sizin yapınıza en uygun olanı seçip buradan nasıl ilerlenebileceğini takip edebilirsiniz.
 
 * Comlab Api entegrasyon modeli
 * Comlab Enterprise entegrasyon modeli
