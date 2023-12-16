@@ -1,36 +1,14 @@
 # Başlangıç
 
-## Commercelab Developer Portal'e Hoşgeldiniz
+## A101 Satıcı Portal'a Hoşgeldiniz
 
-Bu doküman portalı entegrasyon veya arayüz üzerinden yapılacak işlemlerinin tamamlanması adına gerekli bütün bilgilerin iletildiği Commercelab entegrasyon doküman sayfasıdır.
+A101 Satıcı Portalı; tüm siparişlerinizi tek bir yerden yönetebileceğiniz, satış raporlarınızı analiz edebileceğiniz ve performansınızı geliştirebileceğiniz bir yönetim panelidir. A101'deki tüm sürecinizi Satıcı Portalı ile tek çatı altında yönetebilirsiniz. 
+
+Bu dokümanda portalı entegrasyon veya arayüz üzerinden yapılacak işlemlerinin tamamlanması adına gerekli bütün bilgilerin iletildiği işlemlerin tamamlanabilmesi için gerçekleştirilecek adımlar yer alır. 
 
 ![screenshot](../../m/integration.jpeg)
 
 
 ## Entegrasyon Modelleri
 
-Commercelab ile çalışmaya başlarken birden fazla entegrasyon yöntemi vardır. Bu yöntemlerden sizin yapınıza en uygun olanı seçip buradan nasıl ilerlenebileceğini takip edebilirsiniz.
-
-* Comlab Api entegrasyon modeli
-* Comlab Enterprise entegrasyon modeli
-* Comlab Api + Enterprise entegrasyon modeli
-
-## Dökümanlar
-
-* Entegrasyona Başlarken
-    * [Entegrasyon nasıl yapılır?](Integration/Index.md)
-* Katalog Entegrasyonu
-    * [Ürün Entegrasyonu](Integration/Catalog/Product.md)
-    * [Fiyat ve Stok Entegrasyonu](Integration/Catalog/PriceStock.md)    
-* Sipariş Entegrasyonu
-    * [Müşteri Entegrasyonu](Integration/Customer.md)
-    * [Sipariş Entegrasyonu](Integration/Order.md)
-* Fatura Entegrasyonu
-    * [Fatura Entegrasyonu](Integration/Invoice.md)
-* Kullanıcı Dökümanları
-
-
-
-> `Bir Sonraki` : [Ürün Entegrasyonu](Integration/Catalog/Product.md)
-
-
+A101 satıcı portalına entegre olurken kullanılacak yöntemlerle ilgili detayları * [Entegrasyon nasıl yapılır?](Integration/Index.md) başlığında bulabilirsiniz. 
