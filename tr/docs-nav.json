@@ -7,99 +7,56 @@
     {
       "text": "Entegrasyon",
       "path": "Integration/Index.md",
-      "items": [
-        {
-          "text": "Katalog Entegrasyonu",          
-          "items": [
-            {
-              "text": "Ürün Entegrasyonu",
-              "path": "Integration/Catalog/Product.md"
-            },
-            {
-              "text": "Fiyat ve Stok Entegrasyonu",
-              "path": "Integration/Catalog/PriceStock.md"
-            }
-          ]
-        },
-        {
-          "text": "Sipariş Entegrasyonu",
-          "path": "Integration/Order.md",
-          "items": [
-            {
-              "text": "Sipariş Güncelleme Entegrasyonu",
-              "path": "Integration/OrderUpdate.md"
-            },
-            {
-              "text": "Sipariş Kargo Bilgisi Entegrasyonu",
-              "path": "Integration/OrderUpdateTrackingData.md"
-            }
-          ]
-        },
-        {
-          "text": "Fatura Entegrasyonu",
-          "path": "Integration/Invoice.md"
-        }
-      ]
     },
-    {
-      "text": "Oms Entegrasyon",
-      "path": "Integration/Index.md",
-      "items": [
-        {
-          "text": "Sipariş Entegrasyonu",          
-          "items": [
-            {
-              "text": "Sipariş Kaydetme",
-              "path": "Oms/SaveOrder.md"
-            }
-          ]
-        }
-      ]
-    } ,
-    {
-      "text": "Pim Entegrasyon",
-      "path": "Integration/Index.md",
-      "items": [
-        {
-          "text": "Katalog Entegrasyonu",          
-          "items": [
-            {
-              "text": "Onaylanan satıcı ürününe sku kaydetme ",
-              "path": "Pim/SaveExternalSku.md"
-            },
-		{
-              "text": "Onaylanmış Satıcı ürünlerini Listeleme",
-              "path": "Pim/GetConfirmedVEndorProducts.md"
-            }  
-          ]
-        }
-      ]
-    } ,
     {
       "text": "Hub Kullanıcı Kılavuzu",
       "path": "Hub/Index.md",
       "items": [
         {
-          "text": "Sipariş",          
+          "text": "Dashboard",          
+            "path": "Integration/Index.md"
+		}
+        ]
+        },  
+          {
+          "text": "Destek",          
           "items": [
             {
-              "text": "Sipariş Listesi",
+              "text": "Duyurular",
               "path": "Hub/Order/Orders.md"
-            },
-		   {
-              "text": "Sipariş Listesi 2",
+            	},
+            	{
+              "text": "Taleplerim",
               "path": "Hub/Order/Orders.md"
-            },{
-              "text": "Sipariş Listesi 3",
+            	}
+         	]
+        	},
+            {
+          "text": "Ürün Yönetimi",          
+          "items": [
+            {
+              "text": "Ürün Listesi",
               "path": "Hub/Order/Orders.md"
+            }
+       	    ]
             },
             {
-              "text": "İade İşlemleri",
-              "path": "Integration/Catalog/PriceStock.md"
-            }
-          ]
-        }
-      ]
-    } 
+          "text": "Sipariş Yönetimi",          
+          "items": [
+            {
+              "text": "Siparişler",
+              "path": "Hub/Order/Orders.md"
+          	  },
+            	  {
+              "text": "İade Talepleri",
+              "path": "Hub/Order/Orders.md"
+           	 },
+            	  {
+              "text": "İptal Talepleri",
+              "path": "Hub/Order/Orders.md"
+           	 }
+              ]
+           },        
 	]
-}
+    }
+
