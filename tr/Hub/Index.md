@@ -1,4 +1,4 @@
-# Başlangıç
+# Başlangiç
 
 ## A101 Satıcı Portal'a Hoşgeldiniz
 
