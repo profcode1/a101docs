@@ -9,51 +9,51 @@
       "path": "Integration/Index.md"
     },
     {
-      "text": "Hub KullanıcıKılavuzu",
+      "text": "Hub Kullanıcı Kılavuzu",
       "path": "Hub/Index.md",
       "items": [
         {
           "text": "Dashboard",
           "path": "Integration/Index.md"
-        }
-      ]
-    },
-    {
-      "text": "Destek",
-      "items": [
-        {
-          "text": "Duyurular",
-          "path": "Hub/Order/Orders.md"
         },
         {
-          "text": "Taleplerim",
-          "path": "Hub/Order/Orders.md"
-        }
-      ]
-    },
-    {
-      "text": "Ürün Yönetimi",
-      "items": [
-        {
-          "text": "Ürün Listesi",
-          "path": "Hub/Order/Orders.md"
-        }
-      ]
-    },
-    {
-      "text": "Sipariş Yönetimi",
-      "items": [
-        {
-          "text": "Siparişler",
-          "path": "Hub/Order/Orders.md"
+          "text": "Destek",
+          "items": [
+            {
+              "text": "Duyurular",
+              "path": "Hub/Order/Orders.md"
+            },
+            {
+              "text": "Taleplerim",
+              "path": "Hub/Order/Orders.md"
+            }
+          ]
         },
         {
-          "text": "İade Talepleri",
-          "path": "Hub/Order/Orders.md"
+          "text": "Ürün Yönetimi",
+          "items": [
+            {
+              "text": "Ürün Listesi",
+              "path": "Hub/Order/Orders.md"
+            }
+          ]
         },
         {
-          "text": "İptal Talepleri",
-          "path": "Hub/Order/Orders.md"
+          "text": "Sipariş Yönetimi",
+          "items": [
+            {
+              "text": "Siparişler",
+              "path": "Hub/Order/Orders.md"
+            },
+            {
+              "text": "İade Talepleri",
+              "path": "Hub/Order/Orders.md"
+            },
+            {
+              "text": "İptal Talepleri",
+              "path": "Hub/Order/Orders.md"
+            }
+          ]
         }
       ]
     }
