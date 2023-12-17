@@ -14,18 +14,18 @@
       "items": [
         {
           "text": "Dashboard",
-          "path": "Integration/Index.md"
+          "path": "Hub/Dashboard.md"
         },
         {
           "text": "Destek",
           "items": [
             {
               "text": "Duyurular",
-              "path": "Hub/Order/Orders.md"
+              "path": "Hub/Support/AllAnnouncements.md"
             },
             {
               "text": "Taleplerim",
-              "path": "Hub/Order/Orders.md"
+              "path": "Hub/Support/Tickets.md"
             }
           ]
         },
@@ -34,7 +34,15 @@
           "items": [
             {
               "text": "Ürün Listesi",
-              "path": "Hub/Order/Orders.md"
+              "path": "Hub/PIM/ProductList.md"
+            }, 
+            {
+              "text": "Ürün Yaratma",
+              "path": "Hub/PIM/CreateProduct.md"
+            }, 
+            {
+              "text": "Ürün Yaratma",
+              "path": "Hub/PIM/ExcelImport.md"
             }
           ]
         },
@@ -47,11 +55,11 @@
             },
             {
               "text": "İade Talepleri",
-              "path": "Hub/Order/Orders.md"
+              "path": "Hub/Order/ReturnRequest.md"
             },
             {
               "text": "İptal Talepleri",
-              "path": "Hub/Order/Orders.md"
+              "path": "Hub/Order/CancelRequest.md"
             }
           ]
         }
