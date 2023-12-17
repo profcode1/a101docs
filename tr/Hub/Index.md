@@ -11,4 +11,4 @@ Bu dokümanda portalı entegrasyon veya arayüz üzerinden yapılacak işlemleri
 
 ## Entegrasyon Modelleri
 
-A101 satıcı portalına entegre olurken kullanılacak yöntemlerle ilgili detayları * [Entegrasyon nasıl yapılır?](Integration/Index.md) başlığında bulabilirsiniz. 
+A101 satıcı portalına entegre olurken kullanılacak yöntemlerle ilgili detayları [Entegrasyon nasıl yapılır?](Integration/Index.md) başlığında bulabilirsiniz. 
