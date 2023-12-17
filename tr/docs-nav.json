@@ -3,60 +3,59 @@
     {
       "text": "Giriş",
       "path": "Index.md"
-    }, 
-    {
-      "text": "Entegrasyon",
-      "path": "Integration/Index.md",
     },
     {
-      "text": "Hub Kullanıcı Kılavuzu",
+      "text": "Entegrasyon",
+      "path": "Integration/Index.md"
+    },
+    {
+      "text": "Hub KullanıcıKılavuzu",
       "path": "Hub/Index.md",
       "items": [
         {
-          "text": "Dashboard",          
-            "path": "Integration/Index.md"
-		}
-        ]
-        },  
-          {
-          "text": "Destek",          
-          "items": [
-            {
-              "text": "Duyurular",
-              "path": "Hub/Order/Orders.md"
-            	},
-            	{
-              "text": "Taleplerim",
-              "path": "Hub/Order/Orders.md"
-            	}
-         	]
-        	},
-            {
-          "text": "Ürün Yönetimi",          
-          "items": [
-            {
-              "text": "Ürün Listesi",
-              "path": "Hub/Order/Orders.md"
-            }
-       	    ]
-            },
-            {
-          "text": "Sipariş Yönetimi",          
-          "items": [
-            {
-              "text": "Siparişler",
-              "path": "Hub/Order/Orders.md"
-          	  },
-            	  {
-              "text": "İade Talepleri",
-              "path": "Hub/Order/Orders.md"
-           	 },
-            	  {
-              "text": "İptal Talepleri",
-              "path": "Hub/Order/Orders.md"
-           	 }
-              ]
-           },        
-	]
+          "text": "Dashboard",
+          "path": "Integration/Index.md"
+        }
+      ]
+    },
+    {
+      "text": "Destek",
+      "items": [
+        {
+          "text": "Duyurular",
+          "path": "Hub/Order/Orders.md"
+        },
+        {
+          "text": "Taleplerim",
+          "path": "Hub/Order/Orders.md"
+        }
+      ]
+    },
+    {
+      "text": "Ürün Yönetimi",
+      "items": [
+        {
+          "text": "Ürün Listesi",
+          "path": "Hub/Order/Orders.md"
+        }
+      ]
+    },
+    {
+      "text": "Sipariş Yönetimi",
+      "items": [
+        {
+          "text": "Siparişler",
+          "path": "Hub/Order/Orders.md"
+        },
+        {
+          "text": "İade Talepleri",
+          "path": "Hub/Order/Orders.md"
+        },
+        {
+          "text": "İptal Talepleri",
+          "path": "Hub/Order/Orders.md"
+        }
+      ]
     }
-
+  ]
+}
