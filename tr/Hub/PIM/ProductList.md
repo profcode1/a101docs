@@ -7,6 +7,9 @@
 * Ürünler silinebilir. 
 * Yeni ürün eklenebilir. 
 
+![screenshot](../../m/Product-List.png)
+
+
 Ürün listesinde yer alacak olan kolonlar düzenlenebilir. 
 
 # Filtreleme

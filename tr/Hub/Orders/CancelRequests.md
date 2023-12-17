@@ -5,3 +5,4 @@
 
 * İptal onayları ve redleri bu ekran üzerinden gerçekleştirilir. 
 
+![screenshot](../../m/CancelList.png)
