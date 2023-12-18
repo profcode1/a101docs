@@ -7,8 +7,7 @@
 * Ürünler silinebilir. 
 * Yeni ürün eklenebilir. 
 
-![screenshot](https://github.com/profcode1/a101docs/blob/main/m/Product-List.png)
-
+![screenshot](https://raw.githubusercontent.com/profcode1/a101docs/main/m/Product-List.png)
 
 Ürün listesinde yer alacak olan kolonlar düzenlenebilir. 
 
