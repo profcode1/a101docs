@@ -6,8 +6,7 @@ A101 Satıcı Portalı; tüm siparişlerinizi tek bir yerden yönetebileceğiniz
 
 Bu dokümanda portalı entegrasyon veya arayüz üzerinden yapılacak işlemlerinin tamamlanması adına gerekli bütün bilgilerin iletildiği işlemlerin tamamlanabilmesi için gerçekleştirilecek adımlar yer alır. 
 
-![screenshot](../../m/integration.jpeg)
-
+![screenshot](https://raw.githubusercontent.com/profcode1/a101docs/main/m/integration.jpeg)
 
 ## Entegrasyon Modelleri
 
