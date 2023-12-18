@@ -6,7 +6,7 @@
 
 * Siparişler sayfasında her sipariş bir satır olarak listelenir. İşlem yapılmak istenen sipariş satırına gelinir. İlgili satırda siparişle ilgili olarak çeşitli işlemlerin yer aldığı dropdown liste açılır. Buradan `Kargo Etiketi Yazdır` seçeneği seçilir. 
 
-![screenshot](https://github.com/profcode1/a101docs/blob/main/m/Label1.png)
+![screenshot](https://raw.githubusercontent.com/profcode1/a101docs/main/m/Label1.png)
 
 * `Etiketi A4 Yazdır`'a tıklanır.
 
