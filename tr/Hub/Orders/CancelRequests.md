@@ -5,5 +5,4 @@
 
 * İptal onayları ve redleri bu ekran üzerinden gerçekleştirilir. 
 
-![screenshot](https://github.com/profcode1/a101docs/blob/main/m/CancelList.png)
-
+![screenshot](https://raw.githubusercontent.com/profcode1/a101docs/main/m/CancelList.png)
