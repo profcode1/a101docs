@@ -4,7 +4,7 @@
 
 * İade ile ilgili tüm taleplerin takip edildiği ekrandır. 
 
-![screenshot](../../m/ReturnRequests.png)
+![screenshot](https://github.com/profcode1/a101docs/blob/main/m/ReturnList.png)
 
 * İade onayları ve redleri bu ekran üzerinden gerçekleştirilir. 
 
