@@ -5,7 +5,7 @@
 
 * Siparişler ekranlarında yer alan siparişler sipariş ile ilgili detayların görüntülenebilecek ve sipariş ile ilgili değişiklikler ve düzenlemeler yapılabilecek şekilde tasarlanmıştır. 
 
-![screenshot](https://github.com/profcode1/a101docs/blob/main/m/OrderList.png)
+![screenshot](https://raw.githubusercontent.com/profcode1/a101docs/main/m/OrderList.png)
 
 * Ekran bir filtre alanı ile gelir. Bu filtre alanında siparişleri; 
 * Statüsü, 
