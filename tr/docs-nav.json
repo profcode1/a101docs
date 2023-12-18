@@ -51,15 +51,15 @@
           "items": [
             {
               "text": "Siparişler",
-              "path": "Hub/Order/Orders.md"
+              "path": "Hub/Orders/Orders.md"
             },
             {
               "text": "İade Talepleri",
-              "path": "Hub/Order/ReturnRequest.md"
+              "path": "Hub/Orders/ReturnRequest.md"
             },
             {
               "text": "İptal Talepleri",
-              "path": "Hub/Order/CancelRequest.md"
+              "path": "Hub/Orders/CancelRequest.md"
             }
           ]
         }
