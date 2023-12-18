@@ -60,6 +60,10 @@
             {
               "text": "İptal Talepleri",
               "path": "Hub/Orders/CancelRequests.md"
+            }, 
+            {
+              "text": "Kargo Ayarları",
+              "path": "Hub/Orders/Cargo.md"
             }
           ]
         }
