@@ -4,16 +4,16 @@
 
 * Öncelikle ürün girişi yapmak istediğiniz kategoriyi seçiniz. 
 
-![screenshot](../../m/excelimport.png)
+![screenshot](https://github.com/profcode1/a101docs/blob/main/m/excelimport.png)
 
 
 * Örnek excel dokümanını indirmek için aşağıdaki butona basabilirsiniz. Ürün listesi taslağa uygun olarak hazırlanmalıdır. 
 
-![screenshot](../../m/excelimport2.png)
+![screenshot](https://github.com/profcode1/a101docs/blob/main/m/excelimport2.png)
 
 * Exceli sisteme yükledikten sonra bir mapping ekranı açılır. Bu ekran üzerinden “Auto Map” butonuna basarak ürün üzerindeki özelliklerin otomatik olarak maplenmesini sağlayabilirsiniz.Bunun dışında özellikleri manuel olarak mapleyebilirsiniz. 
 
-![screenshot](../../m/excelimport3.png)
+![screenshot](https://github.com/profcode1/a101docs/blob/main/m/excelimport3.png)
 
 
 
