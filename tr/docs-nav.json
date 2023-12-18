@@ -55,11 +55,11 @@
             },
             {
               "text": "İade Talepleri",
-              "path": "Hub/Orders/ReturnRequest.md"
+              "path": "Hub/Orders/ReturnRequests.md"
             },
             {
               "text": "İptal Talepleri",
-              "path": "Hub/Orders/CancelRequest.md"
+              "path": "Hub/Orders/CancelRequests.md"
             }
           ]
         }
