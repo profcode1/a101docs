@@ -22,4 +22,4 @@
 
 ## Kargo Termin Süresini Değiştirme 
 
-* Kargo termin süresini düzenlemek için [Destek Taleplerim](tr/Hub/Orders/Tickets.md) sekmesinden destek talebi oluşturabilirsiniz. 
+* Kargo termin süresini düzenlemek için [Destek Taleplerim](https://docs.a101.prod.hebiar.com/tr/a101/latest/Hub/Support/Tickets) sekmesinden destek talebi oluşturabilirsiniz. 
